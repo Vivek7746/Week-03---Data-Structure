@@ -1,0 +1,3 @@
+this is a text file.
+It contains multiple lines of text.
+UTF-8 encoding supports characters like: ☺ ★ ₹ ©.
